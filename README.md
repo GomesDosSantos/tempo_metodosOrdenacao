@@ -8,6 +8,6 @@ Código de ordenação baseado nos exemplos das aulas de meu professor.
 <b><h2>Para utilizar</h2></b>
 Por linha de comando:
 
-<code>__$ python metodos_organizacao.py__</code>
+<code>__$ python metodos_ordenacao.py__</code>
 
 Ou apenas execute no Idle.
